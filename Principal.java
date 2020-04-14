@@ -7,7 +7,7 @@ import java.util.ArrayList;
  */
 public class Principal
 {
-   
+   // Boostrap de Aplicacion
     public static void main( String[] args)
     {
         ArrayList<Persona> empleados = new ArrayList<Persona>();
